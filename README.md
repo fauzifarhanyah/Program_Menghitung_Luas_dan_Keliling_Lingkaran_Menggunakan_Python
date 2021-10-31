@@ -4,4 +4,4 @@
 ### Membuat Paragraf
 kode teks untuk paragraf adalah '<p>'
 ini adalah tampilannya
-![img]screenshot/ss1.png/ss2.png
+![gambar]screenshot/ss2.png
